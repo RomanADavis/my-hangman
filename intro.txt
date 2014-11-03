@@ -1,0 +1,13 @@
+You, my friend, are about to die. That is, unless you manage to 
+win a game against your executioner, the HANGMAN. The game is 
+simple. You merely have to guess the hangman's password.
+
+Take heart! He isn't completely merciless. He will tell you the
+number of letter in the password. He will also let you guess the
+a number of letters that might be in the word. If you guess a
+letter that is present in the word, their positions in the word
+will be told to you, if you guess wrongly, the hangman will 
+merely begin to draw (a crude) image of your imminent demise.
+When he is done, your death is certain.
+
+So... what is your guess? (Type 'SAVE' to save.)
